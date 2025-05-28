@@ -1,0 +1,4 @@
+name,age,city,target
+Alice,25,New York,1
+Bob,,Los Angeles,0
+Charlie,35,,1
