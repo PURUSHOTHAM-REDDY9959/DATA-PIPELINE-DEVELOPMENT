@@ -58,13 +58,14 @@ The project is structured to be easily extendable and reusable for various datas
 ✅, 🔄, ❌ - Symbols can be copied from Emojipedia,Get Emoji  websites
 
 
-# Usage Instructions
+# Usage Instructions:
   **Prepare the Input Data**:
     The input file raw_data.csv should contain your raw dataset with columns including both numeric and categorical features. The file must be placed in the        
     project root directory.
 
 **Run the Data Pipeline Script**:
    python data_pipeline.py
+   
 **Output**:
 
   After running, a new file processed_data.csv will be generated. This file contains the preprocessed data where missing values are imputed, numeric features are     scaled, and categorical variables are one-hot encoded. This file is ready for further machine learning tasks or analysis.
