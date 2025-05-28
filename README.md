@@ -74,6 +74,6 @@ The project is structured to be easily extendable and reusable for various datas
 
 # OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/5232f591-1560-426a-be91-43d2d5b5cbd3)
 
 
