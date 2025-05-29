@@ -37,8 +37,11 @@ The project is structured to be easily extendable and reusable for various datas
 ## Project Structure:
 
   ├── data_pipeline.py # Python script containing the ETL pipeline code
+  
   ├── raw_data.csv # Sample input dataset with missing values and categorical data
+  
   ├── processed_data.csv # Output dataset after preprocessing (generated after running)
+
   └── README.md # Project documentation (this file)
 
 ## Dependencies:
