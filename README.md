@@ -15,7 +15,7 @@
 
 
 # DESCRIPTION:
-  Data Pipeline Project - Internship Task
+  ## Data Pipeline Project - Internship Task
 
   This project implements a **Data Pipeline** for **Extract, Transform, Load (ETL)** operations using Python, Pandas, and Scikit-learn libraries. It is designed to   automate the process of loading raw data, preprocessing it by handling missing values, scaling numeric features, encoding categorical variables, and finally        saving the transformed data for further use such as model training or analysis.
 
